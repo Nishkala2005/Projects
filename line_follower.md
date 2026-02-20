@@ -1,4 +1,4 @@
-# 🤖 High-Speed Line Following Robot using Arduino Nano  
+# 🤖 High-Speed Line Following Robot 
 ### 16-IR Sensor Array | 600 RPM N20 Motors | Encoder Feedback | PID Control
 
 ---
