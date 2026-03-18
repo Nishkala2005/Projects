@@ -30,6 +30,9 @@ The robot uses a 16-element IR array arranged linearly:
 
 S1 S2 S3 S4 S5 S6 S7 S8 S9 S10 S11 S12 S13 S14 S15 S16
 
+<img width="892" height="492" alt="image" src="https://github.com/user-attachments/assets/0b43acc2-cf7d-4889-9acf-cc5281b56c5b" />
+
+
 - Each sensor detects black (LOW) or white (HIGH)
 - A weighted average method is used to determine line position
 - Higher resolution tracking compared to 3 or 5 sensor systems
@@ -135,6 +138,7 @@ Connected via digital input pins or multiplexed configuration.
 
 <img width="1084" height="788" alt="image" src="https://github.com/user-attachments/assets/308d418d-e239-4278-93d1-46e81231766c" />
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/b2d3b7fa-6c0d-41b9-8074-804547f04aab" />
 
 ## 📚 Skills Demonstrated
 
