@@ -19,14 +19,14 @@ The mechanical structure is designed using **SolidWorks**, ensuring precise alig
 ## 🛠️ Hardware Components
 - **ESP32 Microcontroller**  
 - **HC-05 Bluetooth Module**  
-- **6 × Servo Motors (SG90/MG90S)**  
+- **6 × Servo Motors (MG90S)**  
 - **Power Supply (Battery Pack)**  
 - **Custom Mechanical Frame (SolidWorks Designed)**  
 
 ---
 
 ## 🧠 Software & Tools
-- **Arduino IDE / ESP-IDF** (for programming ESP32)  
+- **Arduino IDE** (for programming ESP32)  
 - **SolidWorks** (for mechanical design)  
 
 ---
