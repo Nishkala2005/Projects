@@ -131,15 +131,10 @@ Connected via digital input pins or multiplexed configuration.
 
 ## 📷 Project Images
 
-(Add robot image here)
+<img width="1330" height="694" alt="image" src="https://github.com/user-attachments/assets/24ae113d-c29a-434c-828e-737287545457" />
 
----
+<img width="1084" height="788" alt="image" src="https://github.com/user-attachments/assets/308d418d-e239-4278-93d1-46e81231766c" />
 
-## 📹 Demo Video
-
-(Add YouTube or Drive link here)
-
----
 
 ## 📚 Skills Demonstrated
 
