@@ -1,5 +1,5 @@
 # 🤖 High-Speed Line Following Robot 
-### 16-IR Sensor Array | 600 RPM N20 Motors | Encoder Feedback | PID Control
+### 16-IR Sensor Array | 600 RPM N25 Motors | Encoder Feedback | PID Control
 
 ---
 
@@ -7,7 +7,7 @@
 
 This project implements a high-speed autonomous Line Following Robot designed for precision tracking and competition-level performance.
 
-The robot uses a 16-element IR sensor array for fine position detection and 600 RPM N20 geared motors with encoders for accurate speed feedback. A PID control algorithm is implemented to ensure stable and smooth tracking at high speeds.
+The robot uses a 16-element IR sensor array for fine position detection and 600 RPM N25 geared motors with encoders for accurate speed feedback. A PID control algorithm is implemented to ensure stable and smooth tracking at high speeds.
 
 ---
 
@@ -16,7 +16,7 @@ The robot uses a 16-element IR sensor array for fine position detection and 600 
 - Arduino Nano (ATmega328P)
 - 16-Channel IR Sensor Array
 - TB6612FNG Dual Motor Driver
-- 2 × 600 RPM N20 Geared Motors
+- 2 × 600 RPM N25 Geared Motors
 - Quadrature Encoders (Motor-mounted)
 - Li-ion Battery Pack
 - Robot Chassis
